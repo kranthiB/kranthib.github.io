@@ -1,36 +1,16 @@
-## Smart Manufacturing
-You can use the [editor on GitHub](https://github.com/kranthiB/kranthib.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About
+As an engineering practice leader, I possess expertise in strategic thinking, system integrations, and design. My skills include tech stack selection, crafting solutions across multiple platforms and leveraging the latest technologies, ensuring industry security, managing migration processes, and offering thought leadership.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have successfully led the delivery and advancement of specialized services, showcasing proficiency in developing bespoke solutions. My capabilities extend modernization services emphasizing cloud-native characteristics and pioneering digital edge solutions encompassing IoT, IIoT, edge computing, and blockchain technologies.
 
-### Markdown
+In addressing operational challenges, I have implemented solutions to detect events at the scale and respond effectively. This has proven instrumental in solving issues such as predictive maintenance, predictive quality, accurate failure diagnosis, and overall efficiency improvement.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additionally, I bring extensive experience in creating sustainable platforms that empower businesses to implement data-driven operations. This involves strategically placing computation and data storage close to the source of data.
+
+## Experience
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Concentrix Catalyst
+    Senior Director of Software Engineering
+    July 2023 - Present
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kranthiB/kranthib.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
