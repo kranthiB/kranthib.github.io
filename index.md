@@ -15,3 +15,19 @@ Additionally, I bring extensive experience in creating sustainable platforms tha
 - Associate Architect (November 2013 - February 2020)
 - IT Engineer (July 2010 - November 2013)
 ```
+
+## Education
+```markdown
+- Bachelor of Technology in CSE from JNTU, India with 74.8 %
+- Intermediate (MPC) from Board of Intermediate with 96.3%.
+- SSC from Board of Secondary Education with 85.63%.
+```
+
+## Personal Profile
+```markdown
+- Passport: Z5982282
+- GitHub: https://github.com/kranthiB
+- LinkedIn: https://www.linkedin.com/in/kranthi-kumar-bitra/
+- E-mail: kranthi.b76@gmail.com 
+- Site: https://kranthib.github.io/tech-pulse
+```
