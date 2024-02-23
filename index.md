@@ -9,45 +9,27 @@ Additionally, I bring extensive experience in creating sustainable platforms tha
 
 ## Experience
 ```markdown
-**Senior Director of Software Engineering (July 2023 - Present)**
-**Senior Architect (February 2020 - June 2023)**
-**Associate Architect (November 2013 - February 2020)**
-**IT Engineer (July 2010 - November 2013)**
+- Senior Director of Software Engineering
+  - July 2023 - Present
+- Senior Architect
+  - February 2020 - June 2023
+- Associate Architect
+  - November 2013 - February 2020
+- IT Engineer 
+  - July 2010 - November 2013
 ```
 
 ## Education
 ```markdown
-**Bachelor of Technology in CSE from JNTU, India with 74.8 %**
-**Intermediate (MPC) from Board of Intermediate with 96.3%**
-**SSC from Board of Secondary Education with 85.63%**
+- Bachelor of Technology in CSE from JNTU, India with 74.8 %**
+- Intermediate (MPC) from Board of Intermediate with 96.3%**
+- SSC from Board of Secondary Education with 85.63%**
 ```
 
 ## Personal Profile
 ```markdown
-**GitHub:** [Link](https://github.com/kranthiB)
-**LinkedIn:** [Link](https://www.linkedin.com/in/kranthi-kumar-bitra/)
-**E-mail:** _kranthi.b76@gmail.com_
-**Site:** [Link](https://kranthib.github.io/tech-pulse)
-```
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- [GitHub](https://github.com/kranthiB)
+- [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-bitra/)
+- E-mail: kranthi.b76@gmail.com
+- [TechPulse](https://kranthib.github.io/tech-pulse)
 ```
