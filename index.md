@@ -8,7 +8,6 @@ In addressing operational challenges, I have implemented solutions to detect eve
 Additionally, I bring extensive experience in creating sustainable platforms that empower businesses to implement data-driven operations. This involves strategically placing computation and data storage close to the source of data.
 
 ## Experience
-```markdown
 - Senior Director of Software Engineering
   - July 2023 - Present
 - Senior Architect
@@ -17,19 +16,14 @@ Additionally, I bring extensive experience in creating sustainable platforms tha
   - November 2013 - February 2020
 - IT Engineer 
   - July 2010 - November 2013
-```
 
 ## Education
-```markdown
-- Bachelor of Technology in CSE from JNTU, India with 74.8 %**
-- Intermediate (MPC) from Board of Intermediate with 96.3%**
-- SSC from Board of Secondary Education with 85.63%**
-```
+- Bachelor of Technology in CSE from JNTU, India with 74.8 %
+- Intermediate (MPC) from Board of Intermediate with 96.3%
+- SSC from Board of Secondary Education with 85.63%
 
 ## Personal Profile
-```markdown
 - [GitHub](https://github.com/kranthiB)
 - [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-bitra/)
 - E-mail: kranthi.b76@gmail.com
 - [TechPulse](https://kranthib.github.io/tech-pulse)
-```
