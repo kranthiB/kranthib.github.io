@@ -10,7 +10,8 @@ Additionally, I bring extensive experience in creating sustainable platforms tha
 ## Experience
 
 ```markdown
-- Concentrix Catalyst
-    Senior Director of Software Engineering
-    July 2023 - Present
+- Senior Director of Software Engineering (July 2023 - Present)
+- Senior Architect (February 2020 - June 2023)
+- Associate Architect (November 2013 - February 2020)
+- IT Engineer (July 2010 - November 2013)
 ```
